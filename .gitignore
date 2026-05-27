@@ -5,3 +5,5 @@ __pycache__/
 *.pyd
 .ipynb_checkpoints/
 .DS_Store
+.model_cache/
+*.gguf
